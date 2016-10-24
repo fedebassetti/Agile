@@ -10,15 +10,26 @@
 
 A **Scrum** process is distinguished from other agile processes by specific concepts and practices, divided into the three categories of Roles, Artifacts, and Time Boxes (or meetings).
 
-##Learning Process
+**Scrum** aims to help organizations:
 
-Another aspect of **Scrum** is that it is also a process for learning about the work that the team needs to do *and* the process the team uses to do it. **Time boxing** and **feedback loops** become essential to this aspect of **Scrum**.
+* Increase the quality of the deliverables
+* Cope better with change (and expect the changes)
+* Provide better estimates while spending less time creating them
+* Be more in control of the project schedule and state
 
-In this case the term **time box** can refer to putting a set time limit on how long a development cycle will last, this should be no longer that 30 days - it is frequently two or three weeks.
+##Theory
+
+**Scrum** is founded on empirical process control theory - or empiricism. This is an assertion that knowledge comes from experience and making decisions based on what is known. There are three pillars that uphold every implementation of empirical process control: [Transparency, Inspection, and Adaptation](three-pillars.md)
+
+These pillars help **Scrum** to also be a process for learning about the work that the team needs to do *and* the process the team uses to do it. **Time boxing** and **feedback loops** become essential to this aspect of **Scrum**.
+
+In this case the term **time box** can refer to putting a set time limit on how long a development cycle will last, this should be no longer that 30 days - it is frequently two or three weeks. At the end of this **time boxed** development cycle the product should be shared with the Product Owner and other stakeholders so they can see what is being built. This is known as **transparency** and **inspection** two of the [Three Pillars of Scrum](three-pilars.md).
 
 > Software development has long been known to be troublesome when attempting to make all the decisions necessary for a product before any design is done or any code has been written for the product. Every day work is done on a product knowledge is gained. That makes the very first day of a project the day when the team knows the *least* about the product and chaos tends to ensue. **Time boxing** development cycles is an attempt to put that chaos in a box and make the most out of uncertainty by doing the smallest amount of work possible to have a functional product.
 
-The **feedback loop** also helps us make the most of that uncertainty by encouraging the entire team to look at the result *and* the process used in the **time boxed** development cycle. The result is demonstrated to the product owner ([Sprint Review](meetings.md#review)) to ensure what is being delivered is what was asked for and if not it is adjusted for the next development cycle. The process is also reviewed ([Sprint Retrospective](meetings.md#retrospective)) and in this review the team looks at what obsticles came up in the development cycle and attempts to figure out how to overcome the obsticles in the next cycle. Time should also be taken in this meeting to point out what went well and encourage the team to keep doing those things.
+The **feedback loop** also helps us make the most of that uncertainty by encouraging the entire team to look at the result *and* the process used in the **time boxed** development cycle. After the product is demonstrated at the [Sprint Review](meetings.md#review) it might be determined that the product does not meet with the vision of the Product Owner and stakeholders - at this time adjustments should be made for the next development cycle ([Inspection and Adaptation](three-pillars.md)).
+
+The process itself is also reviewed ([Sprint Retrospective](meetings.md#retrospective)) and in this review the team looks at what obstacles came up in the development cycle and attempts to figure out how to overcome the obstacles in the next cycle. Time should also be taken in this meeting to point out what went well and encourage the team to keep doing those things.
 
 > Instead of the "one phase and then the next" approach popularized by **waterfall** development, **Scrum** uses fixed length iterations (sprints) and incorporate each of the "phases" in **every** sprint. Every sprint contains many, if not all, of the 6 phases:
 
@@ -35,7 +46,7 @@ From the very first sprint a **Scrum** team tries to build a working, tested, an
 
 At the end of every sprint the **product increment** is demoed to the product owner and any other interested stake holders. There seems to be a tendency in all of us, not just [product owners](./scrum/roles#product-owner) or customers, to need to see the wrong product first before we are better able to describe the right product.
 
-The team does NOT need to "ship" every sprint, the [product owner](./scrum/roles#product-owner) makes that call, but the goal is for the cross-functional, self-organizeing team to work together to:
+The team does NOT need to "ship" every sprint, the [product owner](./scrum/roles#product-owner) makes that call, but the goal is for the cross-functional, self-organizing team to work together to:
 
 * understand business requirements
 * designing, coding, and testing a solution
