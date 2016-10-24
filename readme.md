@@ -1,25 +1,17 @@
 #Agile
 
-##Roles
+##What is Agile?
 
-* Scrum master (link to roles / scrum master )
-* Self organizing cross functional teams (link to roles / dev team)
-* Product owner(s) (link to roles / product owner)
+**Agile development** refers to any development process that is aligned with the concepts of the [Agile Manifesto](./agile-manifesto.md).
 
-##Artifacts
+**Agile** is a development methodology:
 
-* Working Agreement (Team)
-* Stories
-* Definition of Ready
-* Description
-* Acceptance Criteria
-* Definition of Done
+* that is based on iterative development
+* where requirements and solutions evolve through collaboration
+* promotes disciplined project management
+* encourages frequent inspection and adaption
+* that encourages teamwork, self-organization and accountability
+* a set of engineering best practices intended to allow for rapid delivery of high quality software
+* that aligns development with customer needs and company goals
 
-##Meetings
-
-* Sprint planning
-* Backlog grooming
-* Daily Stand-up
-* Sprint review
-* Product demos
-* Sprint retrospectives
+So therefore any development process that is inline with these statements is called an Agile process. One such framework is called [Scrum](./scrum/readme.md).
