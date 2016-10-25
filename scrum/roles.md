@@ -1,8 +1,8 @@
 #Roles
 
 * Product Owner
-* Scrum Team
 * Scrum Master
+* Scrum Team
 
 ##Product Owner
 
@@ -20,24 +20,6 @@ The Product Owner is the sole person responsible for managing the Product Backlo
 The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the Product Backlog, but those wanting to change a Product Backlog item’s priority must address the Product Owner.
 
 For the Product Owner to succeed, the entire organization must respect his or her decisions. The Product Owner’s decisions are visible in the content and ordering of the Product Backlog. No one is allowed to tell the Development Team to work from a different set of requirements, and the Development Team isn’t allowed to act on what anyone else says.
-
-##Scrum Team
-
-The Scrum Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint.
-
-Scrum Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Scrum Team’s overall efficiency and effectiveness.
-
-Scrum Teams have the following characteristics:
-
-* They are self-organizing. No one (not even the Scrum Master) tells the Scrum Team how to turn Product Backlog into Increments of potentially releasable functionality
-* Scrum Teams are cross-functional, with all of the skills as a team necessary to create a product Increment
-* Scrum recognizes no titles for Scrum Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
-* Scrum recognizes no sub-teams in the Scrum Team, regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
-* Individual Scrum Team members may have specialized skills and areas of focus, but accountability belongs to the Scrum Team as a whole.
-
-A Scrum team should be between 4 and 9 members in total, small enough to remain nimble and large enough to complete significant work within a Sprint. It should be as cross functional as it needs to be to build a potentially shippable product (QA, developers, designers, etc).
-
-Team members should be willing to be responsible for areas of their expertise on a team - though, to reiterate - the entire team is responsible for the deliverables. The team also needs to be able to collaborate with one another in order to discuss changes in direction as they come up. The team should ideally also be constantly learning the product and process (often good feedback can come in the retrospective).
 
 ##Scrum Master
 
@@ -77,3 +59,21 @@ The Scrum Master serves the organization in several ways, including:
 * Helping employees and stakeholders understand and enact Scrum and empirical product development
 * Causing change that increases the productivity of the Scrum Team
 * Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
+
+##Scrum Team
+
+The Scrum Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint.
+
+Scrum Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Scrum Team’s overall efficiency and effectiveness.
+
+Scrum Teams have the following characteristics:
+
+* They are self-organizing. No one (not even the Scrum Master) tells the Scrum Team how to turn Product Backlog into Increments of potentially releasable functionality
+* Scrum Teams are cross-functional, with all of the skills as a team necessary to create a product Increment
+* Scrum recognizes no titles for Scrum Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
+* Scrum recognizes no sub-teams in the Scrum Team, regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
+* Individual Scrum Team members may have specialized skills and areas of focus, but accountability belongs to the Scrum Team as a whole.
+
+A Scrum team should be between 4 and 9 members in total, small enough to remain nimble and large enough to complete significant work within a Sprint. It should be as cross functional as it needs to be to build a potentially shippable product (QA, developers, designers, etc).
+
+Team members should be willing to be responsible for areas of their expertise on a team - though, to reiterate - the entire team is responsible for the deliverables. The team also needs to be able to collaborate with one another in order to discuss changes in direction as they come up. The team should ideally also be constantly learning the product and process (often good feedback can come in the retrospective).

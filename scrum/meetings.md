@@ -110,6 +110,27 @@ The purpose of the Sprint Retrospective is to:
 
 By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint. Implementing these improvements in the next Sprint is the adaptation to the inspection of the Scrum Team itself. Although improvements may be implemented at any time, the Sprint Retrospective provides a formal opportunity to focus on inspection and adaptation.
 
+##Backlog Grooming
+
+Everyone attends the backlog refinement meeting: the team, the Product Owner, and the ScrumMaster. During the meeting, everyone helps prepare the Product Backlog for the sprint planning meeting. This usually includes adding new stories and epics, extracting stories from existing epics, and estimating effort for existing stories. Why is this helpful? Because a groomed backlog will help streamline sprint planning meetings; otherwise, they can stretch on for hours. When product backlog items contain clearly defined acceptance criteria and are estimated by the team members, the planning process does not have to be tense or overly long. By dedicating a time to backlog maintenance, the team ensures that this preliminary planning occurs prior to the sprint planning meeting.
+
+Definition
+
+The team (or part of the team including the product owner) meet regularly to "groom the product backlog", in a formal or informal meeting which can lead to any of the following:
+
+removing user stories that no longer appear relevant
+creating new user stories in response to newly discovered needs
+re-assessing the relative priority of stories
+assigning estimates to stories which have yet to receive one
+correcting estimates in light of newly discovered information
+splitting user stories which are high priority but too coarse grained to fit in an upcoming iteration
+
+Also Known As
+Other terms include "Story Time" (see timeline), "Backlog Refinement Meeting". The term reflects an organic approach to maintaining the backlog: the intended imagery is that of trimming, pruning, cleaning, as with a plant.
+
+Expected Benefits
+The intent of a "grooming" meeting is to ensure that the backlog remains populated with items that are relevant, detailed and estimated to a degree appropriate with their priority, and in keeping with current understanding of the project or product and its objectives. Unlike a more formal "requirements document" the backlog is understood as a dynamic body of information. For instance, not all user stories need to have been broken down to a fine-grained level at the onset of the project, or given detailed estimates; but it is important that at any moment a "sufficient" number of stories should be ready for scheduling in the next few iterations. An Agile project is, no less than any other, subject to "scope creep", in the form of user stories which do not really yield substantial value but were thought "good ideas at the time", and entered into the backlog lest they be forgotten. In the absence of explicit efforts aimed at managing this inflation, this inflation would result in the too well known pathologies of schedule and budget overruns.
+
 ##NOTE:*
 
 The STATUS phase can easily end up being unproductive in several different ways - here are some [common unhelpful meeting types](https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting) and some dos and don'ts:

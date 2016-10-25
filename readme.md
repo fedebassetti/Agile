@@ -1,45 +1,27 @@
-#Agile
+#Agile Presentation
 
-##What is Agile?
+##[What is Agile?](agile.md/#what-is-agile)
 
-**Agile development** refers to any development process that is aligned with the concepts of the [Agile Manifesto](./agile-manifesto.md).
+* [The Goal](agile.md/#the-goal)
+* [What Agile Is Not](agile.md/)
+* [How to "Agile"](agile.md/)
 
-**Agile** is a development methodology that:
+##[Scrum](.scrum/readme.md)
 
-* is based on iterative development
-    * where requirements and solutions evolve through collaboration
-* promotes disciplined project management
-* encourages frequent inspection and adaption
-* encourages teamwork, self-organization and accountability
-* is a set of engineering best practices intended to allow for rapid delivery of high quality software
-* aligns development with customer needs and company goals
-
-##The Goal
-
-The goal of **Agile** is an early and sustainable rate of delivery.
-
-Short development cycles allow for more demonstrations and releases of the product, which allows the team to see some features working. It becomes clear that it is easy to make adjustments along the way rather than waiting for one massive release at the end.
-
-Sustainable rate of delivery by introspection and adaptation, and the idea that the work is being done on product rather than a project encourages sustained incremental delivery rates.
-
-##What Agile Is Not
-
-Waterfall software development encourages the team to silo and make important, critical decisions at a point in time when the individuals are the most ignorant about the entirety of the project. It encourages the silod teams to make decisions on:
-
-* Requirements and analysis
-* Design
-* Code
-* Integration
-* Testing
-* Deployments
-
-one after another with little understanding of the impact decisions will make to "downstream" teams.
-
-##How to "Agile"
-
-Any development process that is in line with these statements is called an Agile process. One such framework is called [Scrum](./scrum/readme.md).
-
-----
-*further reading:*
-
-* *[What is Scrum](./scrum/readme.md)*
+* [Roles](./scrum/roles.md)
+    - [Product Owner](./scrum/roles.md#product-owner)
+    - [Scrum Master](./scrum/roles.md#scrum-master)
+    - [Scrum Team](./scrum/roles.md#scrum-team)
+* [Artifacts](./scrum/artifacts.md)
+    - Product Backlog
+    - Sprint Backlog
+* Time Boxing
+    - [Sprint](./scrum/meetings.md#sprint)
+* [Meetings](./scrum/meetings.md)
+    - [Sprint Planning](./scrum/meetings.md#sprint-planning)
+    - [Daily Scrum (Stand-up)](./scrum/meetings.md#daily-stand-up)
+    - [Sprint Review](./scrum/meetings.md#sprint-review)
+    - [Sprint Retrospective](./scrum/meetings.md#sprint-retrospective)
+        + Not an "official" Scrum meeting: [Backlog Refinement/Grooming](./scrum/meetings.md#backlog-grooming)
+* Misc
+    - [Working Agreement](./scrum/working-agreement-sample.md)
