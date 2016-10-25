@@ -2,19 +2,19 @@
 
 ##[What is Agile?](agile.md/#what-is-agile)
 
-* [The Goal](agile.md/#the-goal)
-* [What Agile Is Not](agile.md/)
-* [How to "Agile"](agile.md/)
+* The Goal
+* What Agile Is Not
+* How to "Agile"
 
-##[Scrum](.scrum/readme.md)
+##[Scrum](./scrum/readme.md)
 
 * [Roles](./scrum/roles.md)
     - [Product Owner](./scrum/roles.md#product-owner)
     - [Scrum Master](./scrum/roles.md#scrum-master)
     - [Scrum Team](./scrum/roles.md#scrum-team)
 * [Artifacts](./scrum/artifacts.md)
-    - Product Backlog
-    - Sprint Backlog
+    - [Product Backlog](./scrum/artifacts.md#product-backlog)
+    - [Sprint Backlog](./scrum/artifacts.md#sprint-backlog)
 * Time Boxing
     - [Sprint](./scrum/meetings.md#sprint)
 * [Meetings](./scrum/meetings.md)
