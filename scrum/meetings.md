@@ -1,6 +1,6 @@
-#Meetings
+# Meetings
 
-##Sprint Planning
+## Sprint Planning
 
 The work to be performed in the Sprint is planned at the Sprint Planning. This plan is created by the collaborative work of the entire Scrum Team.
 
@@ -11,7 +11,7 @@ Sprint Planning answers the following:
 * What can be delivered in the Increment resulting from the upcoming Sprint?
 * How will the work needed to deliver the Increment be achieved?
 
-###Topic One: What can be done this Sprint?
+### Topic One: What can be done this Sprint?
 
 The Product Owner discusses the objective that the Sprint should achieve and the Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal. The entire Scrum Team collaborates on understanding the work of the Sprint.
 
@@ -25,7 +25,7 @@ The number of items selected from the Product Backlog for the Sprint is solely u
 
 After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the Scrum Team crafts a Sprint Goal. The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog, and it provides guidance to the Development Team on why it is building the Increment.
 
-###Topic Two: how will the chosen work get done?
+### Topic Two: how will the chosen work get done?
 
 Having set the Sprint Goal and selected the Product Backlog items for the Sprint, the Development Team decides how it will build this functionality into a “Done” product Increment during the Sprint. The Product Backlog items selected for this Sprint plus the plan for delivering them is called the Sprint Backlog.
 
@@ -35,15 +35,15 @@ The Product Owner can help to clarify the selected Product Backlog items and mak
 
 By the end of the Sprint Planning, the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
 
-###Sprint Goal
+### Sprint Goal
 
 The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment
 
 As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint Goal, it implements the functionality and technology. If the work turns out to be different than the Development Team expected, they collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
 
-##Daily Stand-up
+## Daily Stand-up
 
-###Phase One: STATUS*
+### Phase One: STATUS*
 This phase should only take a few minutes, wherein each person attending quickly runs through [Three Questions](https://www.agilealliance.org/glossary/three-qs/) :
 
 1. **Yesterday**: Here is what the team member worked on yesterday (since last stand-up): "I did/did not do what I said I would" (the "why" itself should be relegated to the next phase "I didn't get to ﻿**X** because of ﻿**Y** ﻿- we can discuss that more in parking lot")
@@ -57,7 +57,7 @@ This phase should only take a few minutes, wherein each person attending quickly
     4. Blockers should **not** be discussed as they come up, but should be relegated to discussion during the **parking lot** phase.
 
 
-###Phase Two: PARKING LOT
+### Phase Two: PARKING LOT
 
 When the **general** (involves everyone) portion of the meeting is over the **targeted** portion of the meeting begins:
 
@@ -66,7 +66,7 @@ When the **general** (involves everyone) portion of the meeting is over the **ta
 * The parking lot will often produce actionable items for team members. The action items should be followed up on during the day or at the next stand-up.
 
 
-##Sprint Review
+## Sprint Review
 
 A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value. This is an informal meeting, not a status meeting, and the presentation of the Increment is intended to elicit feedback and foster collaboration.
 
@@ -79,7 +79,7 @@ The Sprint Review includes the following elements:
 The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.
 
 
-##Sprint Retrospective
+## Sprint Retrospective
 
 The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint.
 
@@ -93,7 +93,7 @@ The purpose of the Sprint Retrospective is to:
 
 By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint. Implementing these improvements in the next Sprint is the adaptation to the inspection of the Scrum Team itself. Although improvements may be implemented at any time, the Sprint Retrospective provides a formal opportunity to focus on inspection and adaptation.
 
-##Backlog Grooming
+## Backlog Grooming
 
 Everyone attends the backlog refinement meeting: the team, the Product Owner, and the ScrumMaster. During the meeting, everyone helps prepare the Product Backlog for the sprint planning meeting. This usually includes adding new stories and epics, extracting stories from existing epics, and estimating effort for existing stories. Why is this helpful? Because a groomed backlog will help streamline sprint planning meetings; otherwise, they can stretch on for hours. When product backlog items contain clearly defined acceptance criteria and are estimated by the team members, the planning process does not have to be tense or overly long. By dedicating a time to backlog maintenance, the team ensures that this preliminary planning occurs prior to the sprint planning meeting.
 
@@ -114,28 +114,28 @@ Other terms include "Story Time" (see timeline), "Backlog Refinement Meeting". T
 Expected Benefits
 The intent of a "grooming" meeting is to ensure that the backlog remains populated with items that are relevant, detailed and estimated to a degree appropriate with their priority, and in keeping with current understanding of the project or product and its objectives. Unlike a more formal "requirements document" the backlog is understood as a dynamic body of information. For instance, not all user stories need to have been broken down to a fine-grained level at the onset of the project, or given detailed estimates; but it is important that at any moment a "sufficient" number of stories should be ready for scheduling in the next few iterations. An Agile project is, no less than any other, subject to "scope creep", in the form of user stories which do not really yield substantial value but were thought "good ideas at the time", and entered into the backlog lest they be forgotten. In the absence of explicit efforts aimed at managing this inflation, this inflation would result in the too well known pathologies of schedule and budget overruns.
 
-##NOTE:*
+## NOTE:*
 
 The STATUS phase can easily end up being unproductive in several different ways - here are some [common unhelpful meeting types](https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting) and some dos and don'ts:
 
-###The "status report" meeting:
+### The "status report" meeting:
 >**DO NOT** turn the daily meeting into a "status report" type meeting wherein each team member is reporting progress to the one person (team manager or Scrum Master)
 >
 >**DO** encourage the exchange to be on more of a peer-to-peer basis to facilitate team building and collaboration
 
-###The "never ending" meeting:
+### The "never ending" meeting:
 >**DO NOT** allow or encourage team members to tell entire stories while answering the [Three Questions](https://www.agilealliance.org/glossary/three-qs/)
 >
 >**DO** interrupt with statements like "let's keep this moving" or "perhaps this is a parking lot item"
 
-###The "no value" meeting:
+### The "no value" meeting:
 >**DO NOT** allow the meeting to become a place where only one or two people actively contribute, this will lead to other team members simply getting bored, their attention wandering, or simply not attending
 >
 >**DO** structure the meeting so that relevant team members are present and able to leave once the first phase of the meeting is over
 >
 >**DO** remember one of the tenants of Agile is ["**Individuals and interactions** over process and tools"](http://agilemanifesto.org/) - conversation is encouraged so long as it is relegated to the proper phase of the meeting (or after)
 
-###The "no problem" meeting
+### The "no problem" meeting
 >**DO NOT** allow meetings to drop into a repetition of team members mumbling "no problems" - especially when peak performance is clearly not being achieved
 >
 >**DO** encourage impediments to be brought up in the group setting (at the appropriate time) so that the team can work as a whole solving the problem
