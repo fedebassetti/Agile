@@ -1,12 +1,12 @@
-#Agile Presentation
+# Agile Presentation
 
-##[What is Agile?](agile.md/#what-is-agile)
+## [What is Agile?](agile.md/#what-is-agile)
 
 * The Goal
 * What Agile Is Not
 * How to "Agile"
 
-##[Scrum](./scrum/readme.md)
+## [Scrum](./scrum/readme.md)
 
 * [Roles](./scrum/roles.md)
     - [Product Owner](./scrum/roles.md#product-owner)
